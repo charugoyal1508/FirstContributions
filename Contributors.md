@@ -56,5 +56,4 @@
 - [squirrel](https://github.com/squirrel129)
 - [Amar kaushik](https://github.com/amarcode1)
 - [Aditya Chopra](https://github.com/adityacodechopra)
-
-
+- [Charu Goyal](https://github.com/charugoyal1508)
